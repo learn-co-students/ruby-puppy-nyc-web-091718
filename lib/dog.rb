@@ -19,3 +19,5 @@ class Dog
     @@all
   end
 end #end of Dog class
+
+#testing out commits
